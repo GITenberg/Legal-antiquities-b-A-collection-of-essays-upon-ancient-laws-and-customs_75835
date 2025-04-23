@@ -1,0 +1,28 @@
+_repo: Legal-antiquities-b-A-collection-of-essays-upon-ancient-laws-and-customs_75835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Edward Joseph
+    gutenberg_agent_id: '58175'
+    url: http://www.gutenberg.org/2009/agents/58175
+description: ''
+gutenberg_issued: '2025-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75835'
+language: en
+pgterms:marc904: https://archive.org/details/legalantiquities00whitrich
+pgterms:marc905: 20200929151525white
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: WebRover, Tim Lindell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aSt. Louis, Mo. :$bThe F. H. Thomas law book co., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Legal antiquities : $b A collection of essays upon ancient laws and customs'
+url: http://www.gutenberg.org/ebooks/75835
